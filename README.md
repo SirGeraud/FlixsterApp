@@ -28,3 +28,9 @@ Describe any challenges encountered while building the app.
 
 My only issue is uploading the gif here I will be putting the link to my imgur so that if the gif doesn't show above, you'd still be able to see it:
 https://imgur.com/wSiB0wF
+
+### Modificatons Regarding Email
+-----------------
+MODIFIED GIF SO APP ICON IS VISIBLE AT LUANCH:
+https://imgur.com/a/iqSBXdC
+-----------------
